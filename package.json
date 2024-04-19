@@ -1,6 +1,6 @@
 {
-  "name": "@atlassian/gajira-login",
-  "version": "3.0.1",
+  "name": "@Justin-JHG/gajigitra-login",
+  "version": "1.0.0",
   "description": "Used to store credentials for later use in CLI action",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "lint": "eslint",
     "precommit": "run-p lint build"
   },
-  "author": "Atlassian <github@atlassian.com>",
+  "author": "Justin Liu",
   "license": "ISC",
   "dependencies": {
     "husky": "^8.0.2",
