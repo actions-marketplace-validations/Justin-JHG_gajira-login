@@ -26,7 +26,7 @@ jobs:
     name: Jira Example
     steps:
     - name: Login
-      uses: atlassian/gajira-login@v3
+      uses: justin-jhg/jira-login-action@v0.1
       env:
         JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
         JIRA_USER_EMAIL: ${{ secrets.JIRA_USER_EMAIL }}
