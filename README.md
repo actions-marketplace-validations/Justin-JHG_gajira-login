@@ -8,7 +8,7 @@ This is required by other actions like:
 - [`Transition`](https://github.com/marketplace/actions/jira-issue-transition) - Transition a Jira issue
 - [`Comment`](https://github.com/marketplace/actions/jira-add-comment) - Add a comment to a Jira issue
 - [`Create`](https://github.com/marketplace/actions/jira-create-issue) - Create a new Jira issue
-- [`Find issue key`](https://github.com/marketplace/actions/jira-find-issue-key) - Search for an issue key in commit message, branch name, etc. This issue key is then saved and used by the next actions in the same workflow
+- [`Find issue key`](https://github.com/marketplace/actions/jira-find-issue-key-action) - Search for an issue key in commit message, branch name, etc. This issue key is then saved and used by the next actions in the same workflow
 - [`TODO`](https://github.com/marketplace/actions/jira-issue-from-todo) - Create a Jira issue for each TODO comment in committed code
 - [`CLI`](https://github.com/marketplace/actions/setup-jira) - Wrapped [go-jira](https://github.com/Netflix-Skunkworks/go-jira) CLI for common Jira actions
 
